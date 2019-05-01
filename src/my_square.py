@@ -4,8 +4,8 @@ def my_square(y):
 	uses the * operator
 	
 	"""
-	return(y * y)
 
+	return(y * y)
 
 print(my_square(3))
 
