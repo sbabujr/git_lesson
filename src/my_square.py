@@ -2,6 +2,7 @@ def my_square(y):
 	"""takes a value and returns the squared value.
 	
 	uses the ** operator
+	this file changes in github
 	"""
 	return(y ** 2)
 
