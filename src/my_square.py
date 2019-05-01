@@ -1,15 +1,12 @@
-def my_square(y):
+def my_square(z):
 	"""takes a value and returns the squared value.
 	
-	uses the ** operator
-	this file changes in github again
+	uses the * operator
+	
 	"""
-	return(y ** 2)
+	return(z * z)
 
-def my_square2(x):
-	"""uses the * operator to calculate square
-	"""
-	return(x * x)
 
 print(my_square(3))
-print(my_square2(3))
+
+
