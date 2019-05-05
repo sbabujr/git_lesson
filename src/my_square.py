@@ -1,4 +1,4 @@
-# pushing using ssh
+
 def my_square(y):
 	"""takes a value and returns the squared value.
 	
@@ -8,5 +8,13 @@ def my_square(y):
 
 	return(y * y)
 
-print(my_square(3))
+def my_square2(x):
+	"""uses the * operator to calculate square
+	"""
+	return(x * x)
+
+print(my_square(42))
+print(my_square2(42))
+
+
 
