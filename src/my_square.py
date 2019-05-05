@@ -1,15 +1,12 @@
 
 def my_square(y):
-	"""takes a value and returns the squared value.
-	
-	uses the * operator
-	
+	"""doc: takes a value and returns the squared value.
+	uses the ** operator
 	"""
-
 	return(y * y)
 
 def my_square2(x):
-	"""uses the * operator to calculate square
+	"""doc: uses the * operator to calculate square
 	"""
 	return(x * x)
 
